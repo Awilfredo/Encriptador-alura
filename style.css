@@ -37,11 +37,22 @@ button{
     background-color: #0A3871;
     color: #FFFFFF;
 }
+
+.btnEncriptar:hover{
+    background-color: #0d51a3;
+}
+
 .btnDesencriptar{
     background-color: #D8DFE8;
     color: #0A3871;
     border: 2px solid #0A3871;
 }
+
+.btnDesencriptar:hover{
+    background-color: #D8DFE8;
+    border: 3px solid #052b5a;
+}
+
 
 aside{
     display: flex;
